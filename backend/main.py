@@ -5,3 +5,6 @@ app = FastAPI()
 def root():
     return {"message": "esse troço de API esta funcionando"}
 
+
+
+
